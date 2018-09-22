@@ -1,0 +1,21 @@
+_repo: Porcelain_55118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dillon, Edward
+    deathdate: 1914
+    gutenberg_agent_id: '44006'
+    url: http://www.gutenberg.org/2009/agents/44006
+description: ''
+gutenberg_issued: '2017-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Porcelain
+url: http://www.gutenberg.org/ebooks/55118
